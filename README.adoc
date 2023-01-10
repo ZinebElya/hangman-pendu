@@ -2,7 +2,7 @@
 
 == Challenge done during Becode's WebDev training // January 2023
 
-Type of challenge: *consolidation* +
+Type of challenge: *consolidation JavaScript* +
 Team challenge: *solo*
 
 
