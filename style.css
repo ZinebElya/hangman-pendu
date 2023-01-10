@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+figure {
+    margin: 50px;
+}
+
+#count {
+    font-size:20px ;
+}
+
+#wordHidden{
+    font-size: 50px;
+}
+
+#letters{
+    margin: 30px 10px; 
+}
+
+
+
+
+
+
+
