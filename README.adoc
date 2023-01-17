@@ -1,5 +1,7 @@
 # hangman-pendu  
 
+ https://zinebelya.github.io/hangman-pendu/
+
 == Challenge done during Becode's WebDev training // January 2023
 
 Type of challenge: *consolidation JavaScript* +
